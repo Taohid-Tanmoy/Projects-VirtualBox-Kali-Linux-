@@ -1,7 +1,7 @@
 # Kali Linux VM Setup
 
 Set up a Kali Linux virtual machine using VirtualBox as a beginner project 
-before starting my CIS Cybersecurity degree at Baruch College (Fall 2025).
+before starting my CIS Cybersecurity degree at Baruch College (Fall 2026).
 
 ## What I Did
 - Downloaded and installed VirtualBox
@@ -16,5 +16,4 @@ freshman year to hit the ground running.
 ## Tools Used
 - VirtualBox
 - Kali Linux 2024.x
-## Screenshot
-![Kali Linux VM](Screenshot.png)
+
