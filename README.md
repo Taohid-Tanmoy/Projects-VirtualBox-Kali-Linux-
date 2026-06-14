@@ -16,3 +16,5 @@ freshman year to hit the ground running.
 ## Tools Used
 - VirtualBox
 - Kali Linux 2024.x
+## Screenshot
+![Kali Linux VM](screenshot.png)
