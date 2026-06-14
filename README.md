@@ -17,4 +17,4 @@ freshman year to hit the ground running.
 - VirtualBox
 - Kali Linux 2024.x
 ## Screenshot
-![Kali Linux VM](screenshot.png)
+![Kali Linux VM](Screenshot.png)
